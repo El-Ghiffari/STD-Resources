@@ -1,1 +1,3 @@
 # STD-Resources
+
+Fill with code for Data Structures Lecture, may this help your study...
